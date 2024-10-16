@@ -1,0 +1,1405 @@
+[
+    {
+    "russ_count_phrase": 2,
+    "russ_phrase": ["возникнуть, появиться"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["come into being (existence)"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "russ_phrase": ["прекратить деятельность"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["cease one's activities"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "russ_phrase": ["устав; хартия"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["charter"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "russ_phrase": ["разрабатывать устав"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["draw up a charter"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "russ_phrase": ["аннулировать устав"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["nullify the charter"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "russ_phrase": ["пересматривать устав"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["review the charter"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "russ_phrase": ["предшественник"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["forerunner"]
+    },
+    {
+    "russ_count_phrase": 3,
+    "russ_phrase": ["давать торжественное обещание", "принимать на себя обязательство", "связывать себя обязательством"],
+    "eng_count_phrase": 3,
+    "eng_phrase": ["pledge", "commit oneself to smth", "vow"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "russ_phrase": ["ратифицировать", "утверждать"],
+    "eng_count_phrase": 2,
+    "eng_phrase": ["ratify", "approve (of)"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "russ_phrase": ["союзники (страны антигитлеровской коалиции времён Второй мировой войны)"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["the Allies (Allied Forces)"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "russ_phrase": ["страны Оси (страны нацистского блока во время Второй мировой войны)"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["the Axis (Powers) (Axis alliance)"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "russ_phrase": ["подписывающая сторона", "государство, подписавшее договор"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["signatory (to a treaty)"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "russ_phrase": ["протекция", "содействие, покровительство"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["auspices"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "russ_phrase": ["под покровительством"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["under the auspices of"]
+    },
+    {
+    "russ_count_phrase": 3,
+    "russ_phrase": ["заложник (кого-, чего-либо)", "держать кого-либо заложником", "захватывать кого-либо в заложники"],
+    "eng_count_phrase": 3,
+    "eng_phrase": ["hostage to smb/smth", "hold smb as a hostage", "seize/take smb. hostage"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "russ_phrase": ["созывать", "собирать (заседание, встречу)"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["convene"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "russ_phrase": ["поддерживать международный мир и безопасность"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["maintain international peace and security"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "russ_phrase": ["предотвращать угрозы миру", "устранять угрозы миру"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["prevent and remove threats to the peace"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "russ_phrase": ["использовать военную силу"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["use military force"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "russ_phrase": ["разрешать споры", "урегулировать споры"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["settle/resolve disputes"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "russ_phrase": ["подвергать опасности мир"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["endanger peace"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "russ_phrase": ["подавлять акты агрессии"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["suppress acts of aggression"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "russ_phrase": ["правовой порядок", "власть закона; законность"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["the rule of law"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "russ_phrase": ["права человека"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["human rights"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "russ_phrase": ["национальные меньшинства"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["minorities"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "russ_phrase": ["справляться с конкуренцией"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["cope with competition"]
+    },
+    {
+    "russ_count_phrase": 3,
+    "russ_phrase": ["обязательство", "принимать обязательства", "исполнять обязательства"],
+    "eng_count_phrase": 3,
+    "eng_phrase": ["obligation", "take on obligations", "implement obligations"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "russ_phrase": ["твёрдо держаться", "придерживаться (правил, принципов)"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["adhere to smth"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "russ_phrase": ["придерживаться правил", "соблюдать правила"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["abide by the rules"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "russ_phrase": ["соответствовать критериям"],
+    "eng_count_phrase": 1,
+    "eng_phrase": ["meet/fulfil the criteria (Sg criterion)"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 4,
+    "russ_phrase": ["цель, задача"],
+    "eng_phrase": ["objective / goal / purpose / aspiration"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["предназначенный (для чего-либо)"],
+    "eng_phrase": ["aimed at / intended for / designed for smith"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["суверенитет; верховная власть нарушать суверенитет"],
+    "eng_phrase": ["sovereignty ['sэvr(ə)nti'] impair / infringe / violate the sovereignty"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["автономия, независимость, самостоятельность, суверенитет заявлять о независимости"],
+    "eng_phrase": ["independence / claim independence"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["независимость, автономия, самоуправление"],
+    "eng_phrase": ["autonomy [:'tonəmi'] / self-government"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["территориальная целостность, неприкосновенность нарушать территориальную неприкосновенность"],
+    "eng_phrase": ["territorial integrity / disrupt territorial integrity"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["неприкосновенность территории и границ"],
+    "eng_phrase": ["inviolability of territory and borders"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["самоопределение"],
+    "eng_phrase": ["self-determination"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["самостоятельное образование, правовая единица, субъект права"],
+    "eng_phrase": ["entity ['entity']"]
+    },
+
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["нарушать (закон, договор, обязательство)"],
+    "eng_phrase": ["breach / violate / break (a law, agreement, obligation / commitment)"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["официально, формально признавать (правительство, независимость страны)"],
+    "eng_phrase": ["recognize"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["международные отношения"],
+    "eng_phrase": ["foreign relations"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["международная арена"],
+    "eng_phrase": ["international arena [ə'ri:nə] / scene"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["появляться на политической арене"],
+    "eng_phrase": ["enter the political scene"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["следовать политике"],
+    "eng_phrase": ["adhere to / follow / pursue [pə'sju:] a policy"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["проводить политику"],
+    "eng_phrase": ["carry out / implement a policy"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["твёрдая, жёсткая политика"],
+    "eng_phrase": ["firm / rigid / tough policy"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["прозападный политический курс"],
+    "eng_phrase": ["pro-Western policy"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["выжидательная политика"],
+    "eng_phrase": ["wait-and-see policy"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["политика наведения мостов"],
+    "eng_phrase": ["bridge-building policy"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["оружие массового поражения"],
+    "eng_phrase": ["weapons of mass destruction"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["быть чреватым, преисполненным чего-либо, таить в себе"],
+    "eng_phrase": ["be fraught with smth"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["лишать кого-либо чего-либо"],
+    "eng_phrase": ["deprive smb of smth"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["несовместимый с чем-либо"],
+    "eng_phrase": ["inconsistent / incompatible with smth"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["законный, легальный; легитимный"],
+    "eng_phrase": ["legitimate / lawful / legal"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["незаконный, противозаконный, неправомерный"],
+    "eng_phrase": ["illegitimate / unlawful / illegal"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["международное сообщество"],
+    "eng_phrase": ["international community"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["государственность"],
+    "eng_phrase": ["statehood"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["дестабилизировать ситуацию"],
+    "eng_phrase": ["undermine stability"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["обращение унижающее человеческое достоинство"],
+    "eng_phrase": ["degrading treatment"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["бесплодные переговоры"],
+    "eng_phrase": ["fruitless / unsuccessful negotiations"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["предварительные переговоры"],
+    "eng_phrase": ["preliminary talks"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["закулисные переговоры"],
+    "eng_phrase": ["backstage talks, talks behind the scenes"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["переговоры за закрытыми дверями"],
+    "eng_phrase": ["discussions in private / negotiations behind closed doors"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["на полях саммита"],
+    "eng_phrase": ["on the sidelines of a summit"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["официальные (неофициальные) переговоры"],
+    "eng_phrase": ["formal (informal) talks"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["мирные переговоры"],
+    "eng_phrase": ["peace negotiations / talks"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["переговоры за круглым столом"],
+    "eng_phrase": ["round table talks"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["место проведения переговоров"],
+    "eng_phrase": ["site of talks / venue for (of) talks"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["вести переговоры (с кем-либо)"],
+    "eng_phrase": ["hold / conduct / carry on talks, to negotiate (with)"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["вступать в переговоры"],
+    "eng_phrase": ["enter into negotiations"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["отменить переговоры"],
+    "eng_phrase": ["cancel talks"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["срывать переговоры"],
+    "eng_phrase": ["break down talks"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["прерывать, прекращать переговоры"],
+    "eng_phrase": ["break off talks"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 5,
+    "russ_phrase": ["переговоры закончились безрезультатно, переговоры провалились"],
+    "eng_phrase": ["talks ended in failure, talks failed to make any progress, talks ended inconclusively, talks produced no results, talks collapsed"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["переговоры были конструктивными и проходили в деловой обстановке"],
+    "eng_phrase": ["talks were constructive and businesslike"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["переговоры проходили в теплой, дружеской и сердечной обстановке"],
+    "eng_phrase": ["talks were warm, friendly and cordial"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 5,
+    "russ_phrase": ["договор, соглашение, конвенция, пакт"],
+    "eng_phrase": ["agreement, accord, treaty, pact, convention"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["заключить договор"],
+    "eng_phrase": ["reach / conclude / sign / make an agreement"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["достигнуть согласия"],
+    "eng_phrase": ["reach agreement"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["соглашение о разоружении"],
+    "eng_phrase": ["disarmament agreement"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["денонсировать договор, разорвать соглашение"],
+    "eng_phrase": ["break / violate / denounce an agreement"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["согласие, быть совершенно согласным с кем-либо, по обоюдному согласию"],
+    "eng_phrase": ["agreement (Uncoun.), be in full / complete agreement with smb, by mutual agreement"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["мирный договор"],
+    "eng_phrase": ["peace treaty"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["договор о нераспространении ядерного оружия"],
+    "eng_phrase": ["nonproliferation treaty"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["договор о запрещении испытаний ядерного оружия"],
+    "eng_phrase": ["test-ban treaty"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["договор о выдаче преступников"],
+    "eng_phrase": ["treaty of extradition"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["отношения; связи"],
+    "eng_phrase": ["relations / ties"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["переговоры на высшем уровне"],
+    "eng_phrase": ["summit talks / high-level talks"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["напряжённые, натянутые отношения"],
+    "eng_phrase": ["strained / troubled relations"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["разорвать дипломатические отношения со страной"],
+    "eng_phrase": ["break off diplomatic relations with a country"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["позиция, установка"],
+    "eng_phrase": ["stance / position / stand"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 4,
+    "russ_phrase": ["укреплять отношения"],
+    "eng_phrase": ["cement / improve / promote / strengthen relations"]
+    },
+
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["обострить, ухудшить отношения"],
+    "eng_phrase": ["strain / deteriorate relations"]
+    }
+    ,
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["посланник; дипломатический представитель"],
+    "eng_phrase": ["envoy ['enva1]"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["представитель"],
+    "eng_phrase": ["spokesman (for)"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["коллега, человек, находящийся на аналогичной должности или выполняющий сходную работу"],
+    "eng_phrase": ["counterpart"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["посланец (с миссией) мира"],
+    "eng_phrase": ["peace envoy"]
+    },
+    {
+    "russ_count_phrase": 3,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["односторонние переговоры, двусторонние переговоры, трёхсторонние переговоры"],
+    "eng_phrase": ["unilateral talks, bilateral talks, trilateral ['traɪ'læt(ə)r(ə)l] / three-lateral talks"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 4,
+    "russ_phrase": ["шестисторонние переговоры"],
+    "eng_phrase": ["six-party / six-country / six-side(d) / six-lateral talks"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["многосторонние переговоры"],
+    "eng_phrase": ["multilateral talks"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["очередная встреча на высшем уровне"],
+    "eng_phrase": ["regular summit"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["чрезвычайное / внеочередное совещание на высшем уровне"],
+    "eng_phrase": ["extraordinary / special summit"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["длительные переговоры"],
+    "eng_phrase": ["marathon talks / round-the-clock talks"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["переговоры без предварительных условий"],
+    "eng_phrase": ["talks without preconditions"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["накануне, в преддверии, перед (событием)"],
+    "eng_phrase": ["ahead of smth"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["источник, близкий к переговорам"],
+    "eng_phrase": ["source close to negotiations"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["разглашать, раскрывать информацию"],
+    "eng_phrase": ["disclose information"]
+    },
+    {
+    "russ_count_phrase": 3,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["лицо, ведущее переговоры; сторона в переговорах; посредник"],
+    "eng_phrase": ["negotiating party / negotiator"]
+    },
+
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["убеждать, склонить (к чему-либо)"],
+    "eng_phrase": ["persuade [pə'sweɪd]"]
+    },
+    {
+    "russ_count_phrase": 4,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["оказывать давление; напирать, настаивать; вынуждать"],
+    "eng_phrase": ["push"]
+    },
+    {
+    "russ_count_phrase": 3,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["назначать, намечать, планировать"],
+    "eng_phrase": ["schedule (for) / set (for)"]
+    },
+    {
+    "russ_count_phrase": 3,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["откладывать; отсрочивать, оттягивать; приостанавливать"],
+    "eng_phrase": ["postpone / suspend"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["ссылаться (на что-либо); цитировать"],
+    "eng_phrase": ["cite smth"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["сторона, подписавшая договор"],
+    "eng_phrase": ["signatory to a treaty"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["договор, пакт о ненападении"],
+    "eng_phrase": ["non-aggression pact"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": [
+        "установить дипломатические отношения"
+    ],
+    "eng_phrase": [
+        "establish diplomatic relations"
+    ]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["заявление, совместное заявление"],
+    "eng_phrase": ["statement, declaration / joint statement"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["возобновлять"],
+    "eng_phrase": ["resume / restart"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["возобновление"],
+    "eng_phrase": ["resumption / restart"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 4,
+    "russ_phrase": ["опубликовать заявление"],
+    "eng_phrase": ["release / publish / unveil / issue a statement"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["сделать заявление"],
+    "eng_phrase": ["make a statement"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["посредничать в переговорах между кем-либо"],
+    "eng_phrase": ["mediate / broker (in) talks between smb"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["посредник"],
+    "eng_phrase": ["intermediary / mediator / broker"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["проводить переговоры у себя в стране, выступать в роли принимающей стороны"],
+    "eng_phrase": ["host talks"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["высокопоставленное должностное лицо"],
+    "eng_phrase": ["top level / high level important official"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["помощник, консультант, советник президента"],
+    "eng_phrase": ["adviser/ aide[eid] / presidential aide"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["повестка дня, вопросы, стоящие в повестке дня"],
+    "eng_phrase": ["agenda / items on the agenda"]
+    },
+    {
+    "russ_count_phrase": 4,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["дело; тема; пункт; (спорный) вопрос"],
+    "eng_phrase": ["issue / matter"]
+    },
+
+    {
+    "russ_count_phrase": 3,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["проблема; вопрос; задача"],
+    "eng_phrase": ["problem"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["острая проблема"],
+    "eng_phrase": ["thorny issue"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["основной, главный, существенный вопрос"],
+    "eng_phrase": ["substantive issue"]
+    },
+    {
+    "russ_count_phrase": 4,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["неотложный, срочный, актуальный, злободневный вопрос"],
+    "eng_phrase": ["pressing / urgent / topical issue"]
+    },
+    {
+    "russ_count_phrase": 3,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["первостепенный, ключевой, решающий вопрос"],
+    "eng_phrase": ["primary / crucial / key issue"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 4,
+    "russ_phrase": ["спорный вопрос"],
+    "eng_phrase": ["contentious [kən'tenʃəs] / debatable / disputable / controversial issue"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["широкий круг вопросов"],
+    "eng_phrase": ["a wide range of issues"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["противоборствующие стороны, воюющие группировки"],
+    "eng_phrase": ["warring factions"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["испытывать приступ раздражения, гнева"],
+    "eng_phrase": ["throw a tantrum ['tantrəm]"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["выйти из переговоров"],
+    "eng_phrase": ["pull / walk out of talks"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 4,
+    "russ_phrase": ["тупик"],
+    "eng_phrase": ["deadlock / impasse ['æmpæs] / stalemate / dead end"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["выйти из тупика / выводить переговоры из тупика"],
+    "eng_phrase": ["break a stalemate / bring the negotiations out of the impasse"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["в центре переговоров будет вопрос о чем-либо; главное внимание будет уделено чему-либо"],
+    "eng_phrase": ["talks will focus on smth"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["принять условия (договора)"],
+    "eng_phrase": ["accept the terms"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["переходное правительство"],
+    "eng_phrase": ["transitional government"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["разногласие, расхождение во мнениях"],
+    "eng_phrase": ["differences / disagreement / dispute"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["непримиримое разногласие"],
+    "eng_phrase": ["irreconcilable difference"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 4,
+    "russ_phrase": ["серьёзные разногласия"],
+    "eng_phrase": ["bitter / marked / serious / sharp disagreement"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["незначительные расхождения во мнениях"],
+    "eng_phrase": ["slight disagreement"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 5,
+    "russ_phrase": ["уладить, устранить, разрешить разногласия по поводу чего-либо"],
+    "eng_phrase": ["arrange / reconcile / resolve / settle / iron out differences over smth"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["пограничный конфликт"],
+    "eng_phrase": ["border / boundary dispute"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["камень преткновения"],
+    "eng_phrase": ["stumbling block"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["соперник; конкурент, противник"],
+    "eng_phrase": ["rival / opponent"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["яблоко раздора"],
+    "eng_phrase": ["apple of discord"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["союзник, сторонник"],
+    "eng_phrase": ["ally"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["враг, противник; недоброжелатель заклятый враг"],
+    "eng_phrase": ["foe / sworn foe"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["сотрудничество в тесном сотрудничестве (с)"],
+    "eng_phrase": ["collaboration in close collaboration / cooperation (with)"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["военные действия"],
+    "eng_phrase": ["hostilities"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["всеобщая, полномасштабная война"],
+    "eng_phrase": ["full-scale war / all-out war"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["гражданская война"],
+    "eng_phrase": ["civil war"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["столкновение, стычка"],
+    "eng_phrase": ["clash / fight / skirmish"]
+    },
+    { "russ_count_phrase": 3, "eng_count_phrase": 3, "russ_phrase": ["бой, сражение; ожесточенные бои; бои между враждующими группировками"], "eng_phrase": ["fighting / combat; fierce fighting; factional fighting"] },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["воздушный налёт; артиллерийский обстрел"],
+    "eng_phrase": ["air raid; shelling"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["партизан; партизанская война"],
+    "eng_phrase": ["guerilla; guerilla war"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["повстанец, участник восстания, восставший; мятежник"],
+    "eng_phrase": ["rebel / insurgent / rioter"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["боец, борец; воюющая сторона"],
+    "eng_phrase": ["combatant"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["боевик"],
+    "eng_phrase": ["militant"]
+    },
+    {
+    "russ_count_phrase": 3,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["1) народное ополчение; 2) милиция (в России); 3) вооруженные повстанческие отряды"],
+    "eng_phrase": ["militia"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["вооруженные формирования (законные и незаконные)"],
+    "eng_phrase": ["paramilitary forces, paramilitaries"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 4,
+    "russ_phrase": ["противоборствующие стороны; враждующие группировки"],
+    "eng_phrase": ["warring parties / opposing factions / rival groups / hostile groupings"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["мятеж"],
+    "eng_phrase": ["rebellion / insurgency / riot"]
+    },
+    {
+    "russ_count_phrase": 4,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["крепость, твердыня, цитадель, оплот; опорный пункт"],
+    "eng_phrase": ["stronghold"]
+    },
+    {
+    "russ_count_phrase": 3,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["прекращение огня; временное прекращение огня; объявить прекращение огня"],
+    "eng_phrase": ["cease-fire; temporary ceasefire; declare a cease-fire"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 4,
+    "russ_phrase": ["перемирие, прекращение военных действий"],
+    "eng_phrase": ["truce / armistice / cessation of arms / cessation of hostilities"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 5,
+    "russ_phrase": ["вспыхнуть, разразиться; перерастать во что-либо"],
+    "eng_phrase": ["erupt / flare up / break out / burst out; erupt into smth"]
+    },
+
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["обострение (конфликтов и т.п.); бушевать"],
+    "eng_phrase": ["flare-up"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["бушевать"],
+    "eng_phrase": ["rage"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["взяться за оружие"],
+    "eng_phrase": ["take up arms"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["сложить оружие"],
+    "eng_phrase": ["lay down arms"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["уносить жизни"],
+    "eng_phrase": ["take tools on"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["раненый"],
+    "eng_phrase": ["wounded / injured"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["уносить жизни (о стихийном бедствии, болезни, аварии)"],
+    "eng_phrase": ["claim lives"]
+    },
+    {
+    "russ_count_phrase": 4,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["массовое убийство, резня, бойня, кровопролитие"],
+    "eng_phrase": ["bloodbath / bloodshed / massacre"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["грабить; захватывать добычу; мародёрство"],
+    "eng_phrase": ["loot; looting"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["насилие, применение силы; прибегать к насилию"],
+    "eng_phrase": ["violence; resort to / use violence"]
+    },
+    {
+    "russ_count_phrase": 3,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["чрезвычайное положение; объявить, ввести чрезвычайное положение; отменить чрезвычайное положение"],
+    "eng_phrase": ["state of emergency; declare / impose a state of emergency; lift a state of emergency"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["вводить санкции"],
+    "eng_phrase": ["impose sanctions"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["полицейские формирования для борьбы с беспорядками"],
+    "eng_phrase": ["riot police"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["противогаз"],
+    "eng_phrase": ["gas mask / respirator / safety mask"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["комендантский час; объявлять о введении комендантского часа"],
+    "eng_phrase": ["curfew; announce a curfew"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["защитное снаряжение"],
+    "eng_phrase": ["riot gear"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["шлем"],
+    "eng_phrase": ["helmet"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["дубинка полицейского"],
+    "eng_phrase": ["baton / club / truncheon"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["слезоточивый газ; использовать слезоточивый газ против кого-либо"],
+    "eng_phrase": ["tear(-)gas; teargas (to smb)"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["перцовый аэрозоль, спрей"],
+    "eng_phrase": ["pepper spray"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["баллон со слезоточивым газом"],
+    "eng_phrase": ["tear gas canister"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["дать залп"],
+    "eng_phrase": ["fire a volley"]
+    },
+    {
+    "russ_count_phrase": 3,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["водяная пушка, брандспойт, водомет"],
+    "eng_phrase": ["water cannon"]
+    },
+
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["огнетушитель"],
+    "eng_phrase": ["fire extinguisher"]
+    },
+    {
+    "russ_count_phrase": 3,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["беспорядки, бесчинства, волнения"],
+    "eng_phrase": ["unrest / disorder"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["бутылка с зажигательной смесью, коктейль Молотова"],
+    "eng_phrase": ["petrol bomb / Molotov cocktail"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["задерживать, арестовывать"],
+    "eng_phrase": ["detain"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["разогнать; расходиться"],
+    "eng_phrase": ["disperse"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["магистраль, главная дорога"],
+    "eng_phrase": ["thoroughfare"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["магнат"],
+    "eng_phrase": ["tycoon"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["потери убитыми и ранеными"],
+    "eng_phrase": ["casualties"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["жертвы, потери; общее число погибших"],
+    "eng_phrase": ["death toll"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["столкновения"],
+    "eng_phrase": ["clash"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 4,
+    "russ_phrase": ["свергать, отстранять от власти; насильственно свергать"],
+    "eng_phrase": ["topple / depose / oust / overthrow", "topple smb by force"]
+    },
+    {
+    "russ_count_phrase": 4,
+    "eng_count_phrase": 4,
+    "russ_phrase": ["захват (власти), свержение, ниспровержение; переворот; военный переворот"],
+    "eng_phrase": ["takeover / deposition / overthrow / military takeover"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["ниспровержение, свержение; подрывная деятельность"],
+    "eng_phrase": ["subversion"]
+    },
+    {
+    "russ_count_phrase": 4,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["отстранение от власти, смещение с поста, снятие с должности; изгнание; государственный переворот"],
+    "eng_phrase": ["ouster"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["государственный переворот"],
+    "eng_phrase": ["coup (d'état)"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["передать власть"],
+    "eng_phrase": ["transfer the power"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["уступать власть"],
+    "eng_phrase": ["cede power to smb"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["взять власть"],
+    "eng_phrase": ["assume power"]
+    },
+    {
+    "russ_count_phrase": 3,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["уходить в отставку, подавать в отставку; оставлять пост"],
+    "eng_phrase": ["resign"]
+    },
+    {
+    "russ_count_phrase": 3,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["быть у власти, занимать пост, входить в состав правительства"],
+    "eng_phrase": ["be in office"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["хунта, военное правительство"],
+    "eng_phrase": ["junta"]
+    },
+    {
+    "russ_count_phrase": 4,
+    "eng_count_phrase": 4,
+    "russ_phrase": ["восстание; бунт, мятеж"],
+    "eng_phrase": ["rebellion / uprising / revolt / insurrection"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["поднимать восстание"],
+    "eng_phrase": ["foment / stir up a rebellion"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 3,
+    "russ_phrase": ["подавлять восстание"],
+    "eng_phrase": ["crush / put down / quell a rebellion"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["противостояние"],
+    "eng_phrase": ["confrontation, face-off"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["нарастание конфликта"],
+    "eng_phrase": ["escalation of the conflict"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["обострение конфликта; обострение политической обстановки"],
+    "eng_phrase": ["aggravation of conflict; political aggravation"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["воздержаться от чего-либо"],
+    "eng_phrase": ["refrain from smith"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["временно исполняющий обязанности президента"],
+    "eng_phrase": ["interim president"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["гражданское население"],
+    "eng_phrase": ["civilians"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["беженец"],
+    "eng_phrase": ["refugee"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["покинуть дома"],
+    "eng_phrase": ["flee (fled, fled) homes"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["искать убежища"],
+    "eng_phrase": ["seek (sought, sought) refuge"]
+    },
+    {
+    "russ_count_phrase": 2,
+    "eng_count_phrase": 2,
+    "russ_phrase": ["геноцид; совершать геноцид"],
+    "eng_phrase": ["genocide; commit genocide"]
+    },
+    {
+    "russ_count_phrase": 1,
+    "eng_count_phrase": 1,
+    "russ_phrase": ["этническая чистка"],
+    "eng_phrase": ["ethnic cleansing"]
+    },
+    {
+    "eng_count_phrase": 1,
+    "russ_phrase": ["зверства, злодеяния"],
+    "eng_phrase": ["atrocities"]
+    }
+]
